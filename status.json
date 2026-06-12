@@ -1,6 +1,33 @@
 {
   "version": "1.0.0",
   "bots": {
-    "count": 5
+    "count": 5,
+    "list": [
+      {
+        "username": "AlphaBot",
+        "status": "online",
+        "lastUpdate": "2026-06-12T10:15:00Z"
+      },
+      {
+        "username": "BetaBot",
+        "status": "offline",
+        "lastUpdate": "2026-06-12T09:42:00Z"
+      },
+      {
+        "username": "GammaBot",
+        "status": "online",
+        "lastUpdate": "2026-06-12T10:18:00Z"
+      },
+      {
+        "username": "DeltaBot",
+        "status": "online",
+        "lastUpdate": "2026-06-12T10:20:00Z"
+      },
+      {
+        "username": "OmegaBot",
+        "status": "offline",
+        "lastUpdate": "2026-06-12T08:55:00Z"
+      }
+    ]
   }
 }
